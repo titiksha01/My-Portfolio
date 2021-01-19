@@ -2,4 +2,4 @@
 My Portfolio Website
 
 Check it out at:
-![My Portfolio](https://portfolios.talentsprint.com/~titiksha/)
+[My Portfolio](https://portfolios.talentsprint.com/~titiksha/)
